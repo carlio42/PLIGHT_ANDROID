@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a22513a1dbe8c3e41814631eaa011f6d, type: 3}
+  m_Name: MK1_Pistol
+  m_EditorClassIdentifier: 
+  WeaponIndex: 1
+  weaponName: Pistol_MK1
+  isUnlocked: 1
+  FireRate: 0.5
+  EffectDisplayTime: 0.05
+  ReloadTime: 4
+  Magazine: 15
+  MaxBulletes: 475
+  damage: 9
+  range: 30
+  color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  FireMark: {fileID: 0}
+  CrossHair: {fileID: 0}
+  shotSound: {fileID: 0}
+  WeaponImage: {fileID: 21300000, guid: d9affe87a89d33f47b91c8d6a6f06bde, type: 3}
