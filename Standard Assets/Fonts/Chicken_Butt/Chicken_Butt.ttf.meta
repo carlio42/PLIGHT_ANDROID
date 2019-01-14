@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 75876c25f735c2b43ba4b0847d6f42ca
+timeCreated: 1499786942
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Chicken Butt
+  fontNames:
+  - Chicken Butt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

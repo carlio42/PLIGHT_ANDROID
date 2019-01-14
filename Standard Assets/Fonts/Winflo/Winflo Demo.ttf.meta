@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9e5553c1ae2ee3b47b1a08efe311e554
+timeCreated: 1499786942
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Winflo
+  fontNames:
+  - Winflo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b52f072f05b7359428880f53a61b3521
+timeCreated: 1499786942
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Instruction
+  fontNames:
+  - Instruction
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 668a6cd25ad38e348ac4914913f1662b, type: 3}
+  - {fileID: 12800000, guid: 56e8d9e5e0640c34e9f11919ed62f1d5, type: 3}
+  - {fileID: 12800000, guid: 1fe90d2b63c2e9a428c55f17b5fabda1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
